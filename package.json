@@ -1,0 +1,11 @@
+{
+"name": "@sevein404/react-nametable",
+"version": "1.0.0",
+"description": "Only for testing purpose in a schoolassignment. Prints names from an array into multiple <tr>",
+"repository": "sevein404/react-nametable",
+"main": "index.js",
+"keywords": [
+    "test",
+    "schoolassignment"
+ ]
+}
